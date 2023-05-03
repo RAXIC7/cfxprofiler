@@ -8,7 +8,7 @@ RegisterConsoleListener(function(channel, message)
         end
     end
     if string.find(message, "Stopped the recording") then
-        ExecuteCommand("profiler saveJSON resources/sherprofiler/profiler.json")
+        ExecuteCommand("profiler saveJSON resources/KLprofiler/profiler.json")
     end
     if string.find(message, "Save complete") then
         oldnamets = 0
