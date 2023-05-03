@@ -8,4 +8,5 @@ It also requires the ace permission "add_ace resource.KLprofiler command allow"
 
 Feel free to drop suggestions or any modifications you wish to see.
 
-If you wish to modify / publish any scripts made by kahpslock., you must include credits to us.
+If you wish to modify / publish any scripts made by kahpslock., you must include credits to us. To publish using any of our code, please ask permission, we'll most likely say yes.
+
